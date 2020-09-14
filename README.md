@@ -2,6 +2,8 @@
 
 
 ### Folder Structure
+- data folder contains the source data and any modified output.
+- src folder contains the script to proces, clean data, as well as script for models  
 ```
 +---data
 |   +---covid-19
@@ -22,4 +24,5 @@
         +---demand
         +---population
         \---weather
+    \---model
 ```
