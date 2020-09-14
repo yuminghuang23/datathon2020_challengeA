@@ -20,9 +20,5 @@
 |       \---source
 \---src
     \---wrangling
-        +---covid-19
-        +---demand
-        +---population
-        \---weather
     \---model
 ```
