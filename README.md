@@ -22,3 +22,8 @@
     \---wrangling
     \---model
 ```
+
+### Data Source
+1. COVID-19 https://github.com/M3IT/COVID-19_Data
+2. electricity demand: https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data
+3. weather (July - Sept 2020): https://data.melbourne.vic.gov.au/
