@@ -6,19 +6,15 @@
 +---data
 |   +---covid-19
 |   |   +---aggregated
-|   |   +---script
 |   |   \---source
 |   +---demand
 |   |   +---aggregated
-|   |   +---script
 |   |   \---source
 |   +---population
 |   |   +---aggregated
-|   |   +---script
 |   |   \---source
 |   \---weather
 |       +---aggregated
-|       +---script
 |       \---source
 \---src
     \---wrangling
