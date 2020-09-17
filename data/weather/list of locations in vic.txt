@@ -1,0 +1,24 @@
+https://www.timeanddate.com/weather/australia
+
+Ararat，
+Bairnsdale，
+Ballarat，
+Bendigo，
+Echuca，
+Frankston，
+Geelong，
+Horsham，
+Kyneton，
+Melbourne，
+Melton，
+Mildura，
+Shepparton，
+St Arnaud，
+Traralgon，
+Warragul，
+Warrnambool，
+Wodonga
+
+url: 
+https://www.timeanddate.com/weather/australia/[location]/historic?month=[mm]&year=[yyyy]
+
